@@ -11,5 +11,5 @@ Qualifications Summary:
 - I have no any practical experience yet, but I am trying, and I will do my best to reach my goal, and become a real front-end Developer.
 - Now, I am taking courses under the EPAM UpSkill Lab retraining program in the direction of a front-end developer.
 - This is my first Markdown document (my CV in English).
-- *Education:* Belarusian National Technical University, power engineering faculty, (2007-2013)
+- *Education:* Belarusian National Technical University, power engineering faculty, (2007-2013).
 - *English:* Basic knowledge. Good reading and translating ability. Lack of spoke experience for a long time, nevertheless i am working on it.
