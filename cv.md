@@ -7,7 +7,7 @@ _**Contact Info:**_\
 
 Qualifications Summary:
 -----------------------
-- My main goal is to obtain a position as a front-end developer at your company.
+- My main goal is to get a position as a front-end developer at your company.
 - I have no any practical experience yet, but I am trying, and I will do my best to reach my goal, and become a real front-end Developer.
 - Now, I am taking courses under the EPAM UpSkill Lab retraining program in the direction of a front-end developer.
 - This is my first Markdown document (my CV in English).
