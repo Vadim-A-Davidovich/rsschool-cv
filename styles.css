@@ -1,10 +1,38 @@
-header, .main-section {
+body {
     max-width: 1024px;
     margin: 0 auto;
-    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h1 {
+    margin: 50px auto 25px;
+    text-align: center;
+}
+
+.header-info {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+}
+
 header figure img {
-    max-width: 100px;
+    max-width: 130px;
+}
+
+.contact-info {
+    flex: auto;
+    font-size: large;
+}
+
+h2 {
+    background-color: rgb(203, 207, 211);
+    border-left: 3px solid silver;
+}
+
+p {
+    margin: 0 auto;
+    font-size: 120%;
 }
