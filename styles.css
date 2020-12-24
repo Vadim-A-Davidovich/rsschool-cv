@@ -1,38 +1,55 @@
 body {
-    max-width: 1024px;
+    max-width: 1004px;
+    min-width: 323px;
     margin: 0 auto;
+    padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
-    margin: 50px auto 25px;
+.header-heading {
+    margin: 50px 0 25px;
     text-align: center;
 }
 
 .header-info {
     display: flex;
-    flex-direction: row-reverse;
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
-    align-content: center;
 }
 
 header figure img {
     max-width: 130px;
 }
 
-.contact-info {
+.contact-info-container {
     flex: auto;
-    font-size: large;
+    font-size: 20px;
 }
 
-h2 {
+.contact-info-container p {
+    margin: 0;
+}
+
+.contact-info-container a {
+    text-decoration: none;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bold-italic {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.summary-headings {
     background-color: rgb(203, 207, 211);
     border-left: 3px solid silver;
 }
 
-p {
+.qualifications-summary p {
     margin: 0 auto;
-    font-size: 120%;
+    font-size: 19px;
 }
