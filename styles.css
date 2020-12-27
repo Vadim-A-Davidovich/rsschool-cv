@@ -53,7 +53,7 @@ header figure img {
 @media (max-width: 571px) {
     .header-heading {
         margin: 25px 0 10px;
-        font-size: 1.8em;
+        font-size: 29px;
     }
 
     .header-info {
@@ -74,7 +74,7 @@ header figure img {
 @media (max-width: 345px) {
     .header-heading {
         margin: 10px 0 5px;
-        font-size: 1.6em;
+        font-size: 26px;
     }
 
     .contact-info-container {
